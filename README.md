@@ -1,2 +1,6 @@
 # Book_Buy_and_Selling
-Training book trading system repository
+mainブランチに直接プッシュせずにブランチを切って、プッシュした後、プルリクエスト
+
+機能を新しく作ったり、修正するときはブランチを切る
+作業内容はそのブランチにプッシュ
+
